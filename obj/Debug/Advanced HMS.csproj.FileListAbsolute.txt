@@ -1,0 +1,59 @@
+c:\users\hasan\documents\visual studio 2012\Projects\Advanced HMS\Advanced HMS\bin\Debug\Advanced HMS.exe.config
+c:\users\hasan\documents\visual studio 2012\Projects\Advanced HMS\Advanced HMS\bin\Debug\Advanced HMS.exe
+c:\users\hasan\documents\visual studio 2012\Projects\Advanced HMS\Advanced HMS\bin\Debug\Advanced HMS.pdb
+c:\users\hasan\documents\visual studio 2012\Projects\Advanced HMS\Advanced HMS\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\hasan\documents\visual studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.Form1.resources
+c:\users\hasan\documents\visual studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.Properties.Resources.resources
+c:\users\hasan\documents\visual studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced HMS.csproj.GenerateResource.Cache
+c:\users\hasan\documents\visual studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced HMS.exe
+c:\users\hasan\documents\visual studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced HMS.pdb
+c:\users\hasan\documents\visual studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.AdminLogin.resources
+c:\users\hasan\documents\visual studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.ReceptionLogin.resources
+c:\users\hasan\documents\visual studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.AdminDepartment.resources
+C:\Users\Hasan\documents\visual studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.AddEmployee.resources
+C:\Users\Hasan\documents\visual studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.Absentee.resources
+C:\Users\Hasan\documents\visual studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.ReceptionRegister.resources
+C:\Users\Hasan\Documents\Visual Studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.Adminregisteration.resources
+C:\Users\Hasan\Documents\Visual Studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.EmployeeInfo.resources
+C:\Users\Hasan\Documents\Visual Studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.ReceptionistInfo.resources
+C:\Users\Hasan\Documents\Visual Studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.AdminInfo.resources
+C:\Users\Hasan\Documents\Visual Studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.AddPatient.resources
+C:\Users\Hasan\Documents\Visual Studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.MainReception.resources
+C:\Users\Hasan\Documents\Visual Studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.BodyMassIndex.resources
+C:\Users\Hasan\Documents\Visual Studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.BPmonitory.resources
+C:\Users\Hasan\Documents\Visual Studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.BloodBank.resources
+C:\Users\Hasan\Documents\Visual Studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.Pharmacy.resources
+C:\Users\Hasan\Documents\Visual Studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.BloodCholesterol.resources
+C:\Users\Hasan\Documents\Visual Studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.PatientData.resources
+C:\Users\Hasan\Documents\Visual Studio 2012\Projects\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.Absentess.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\bin\Debug\Advanced HMS.exe.config
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced HMS.exe
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced HMS.pdb
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\bin\Debug\Advanced HMS.exe
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\bin\Debug\Advanced HMS.pdb
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced HMS.csprojResolveAssemblyReference.cache
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.Absentee.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.Absentess.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.AddEmployee.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.AddPatient.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.AdminDepartment.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.AdminInfo.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.AdminLogin.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.BloodBank.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.BloodCholesterol.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.BodyMassIndex.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.BPmonitory.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.EmployeeInfo.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.Form1.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.MainReception.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.PatientData.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.Pharmacy.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.Properties.Resources.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.ReceptionistInfo.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.ReceptionLogin.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.ReceptionRegister.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced_HMS.Adminregisteration.resources
+C:\Users\Fasih\Downloads\Advanced HMS\Advanced HMS\obj\Debug\Advanced HMS.csproj.GenerateResource.Cache
+C:\Users\Fasih\Documents\Studies Sem 4\Advanced HMS\Advanced HMS\bin\Debug\Advanced HMS.exe.config
+C:\Users\Fasih\Documents\Studies Sem 4\Advanced HMS\Advanced HMS\obj\Debug\Advanced HMS.exe
+C:\Users\Fasih\Documents\Studies Sem 4\Advanced HMS\Advanced HMS\obj\Debug\Advanced HMS.pdb

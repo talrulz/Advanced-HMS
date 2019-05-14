@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6ACAA5B6-365C-4FFB-A5B3-9F68F5B9260B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Advanced_HMS</RootNamespace>
+    <AssemblyName>Advanced HMS</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\Google Drive\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Absentee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Absentee.Designer.cs">
+      <DependentUpon>Absentee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Absentess.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Absentess.Designer.cs">
+      <DependentUpon>Absentess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AddEmployee.Designer.cs">
+      <DependentUpon>AddEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddPatient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AddPatient.Designer.cs">
+      <DependentUpon>AddPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminDepartment.Designer.cs">
+      <DependentUpon>AdminDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdminInfo.Designer.cs">
+      <DependentUpon>AdminInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLogin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdminLogin.Designer.cs">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BloodBank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BloodBank.Designer.cs">
+      <DependentUpon>BloodBank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BloodCholesterol.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BloodCholesterol.Designer.cs">
+      <DependentUpon>BloodCholesterol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BodyMassIndex.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BodyMassIndex.Designer.cs">
+      <DependentUpon>BodyMassIndex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BPmonitory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BPmonitory.Designer.cs">
+      <DependentUpon>BPmonitory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EmployeeInfo.Designer.cs">
+      <DependentUpon>EmployeeInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainReception.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainReception.Designer.cs">
+      <DependentUpon>MainReception.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PatientData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PatientData.Designer.cs">
+      <DependentUpon>PatientData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pharmacy.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pharmacy.Designer.cs">
+      <DependentUpon>Pharmacy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReceptionistInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ReceptionistInfo.Designer.cs">
+      <DependentUpon>ReceptionistInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReceptionLogin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ReceptionLogin.Designer.cs">
+      <DependentUpon>ReceptionLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReceptionRegister.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ReceptionRegister.Designer.cs">
+      <DependentUpon>ReceptionRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adminregisteration.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Adminregisteration.Designer.cs">
+      <DependentUpon>Adminregisteration.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Absentee.resx">
+      <DependentUpon>Absentee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Absentess.resx">
+      <DependentUpon>Absentess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddEmployee.resx">
+      <DependentUpon>AddEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddPatient.resx">
+      <DependentUpon>AddPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminDepartment.resx">
+      <DependentUpon>AdminDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminInfo.resx">
+      <DependentUpon>AdminInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLogin.resx">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BloodBank.resx">
+      <DependentUpon>BloodBank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BloodCholesterol.resx">
+      <DependentUpon>BloodCholesterol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BodyMassIndex.resx">
+      <DependentUpon>BodyMassIndex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BPmonitory.resx">
+      <DependentUpon>BPmonitory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeInfo.resx">
+      <DependentUpon>EmployeeInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainReception.resx">
+      <DependentUpon>MainReception.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PatientData.resx">
+      <DependentUpon>PatientData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pharmacy.resx">
+      <DependentUpon>Pharmacy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReceptionistInfo.resx">
+      <DependentUpon>ReceptionistInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReceptionLogin.resx">
+      <DependentUpon>ReceptionLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReceptionRegister.resx">
+      <DependentUpon>ReceptionRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Adminregisteration.resx">
+      <DependentUpon>Adminregisteration.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
